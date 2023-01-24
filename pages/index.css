@@ -19,11 +19,10 @@
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__logo/_place/header__logo_place.css);
-@import url(../blocks/header/__langs/header__langs.css);
-@import url(../blocks/header/__lang/_ru/header__lang_ru.css);
-@import url(../blocks/header/__lang/_line/header__lang_line.css);
+@import url(../blocks/header/__lang-links/header__lang-links.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
+
 @import url(../blocks/header/__lang-link/header__lang-link.css);
-@import url(../blocks/header/__lang/_en/header__lang_en.css);
 
 /* Content
 ==============*/
