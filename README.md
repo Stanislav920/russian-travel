@@ -1,4 +1,4 @@
-# Проектная работа 3ю Путешествие по России.
+# Проектная работа 3. Путешествие по России.
 
 Создать сайт для различных устройств.
 
@@ -8,12 +8,13 @@
 
 ## Использовал технологии
 
-HTML
-Css
+- HTML
+- Css
 
 ### Посмотреть проект:
 
-- https://stanislav920.github.io/russian-travel/index.html
+- (https://stanislav920.github.io/russian-travel/index.html)
+  > > > > > > > 73accc7c977ba1dbd9781efebdf18232ad3ce6a7
 
 ### Ссылка на макет:
 
