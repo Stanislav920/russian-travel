@@ -1,4 +1,4 @@
-.header__lang {
+.header__langs {
   display: flex;
   margin: 46px 0 0 0;
 }
@@ -7,7 +7,7 @@
 =========== */
 
 @media screen and (max-width: 320px) {
-  .header__lang {
+  .header__langs {
     margin: 30px 0 0 0;
   }
 }
