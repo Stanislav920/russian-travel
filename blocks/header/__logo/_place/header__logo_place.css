@@ -1,0 +1,6 @@
+.header__logo_place {
+  background-image: url(../../../../images/header-logo.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
