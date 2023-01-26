@@ -1,6 +1,4 @@
 .header {
-  max-width: 1184px;
-
   display: flex;
   justify-content: space-between;
 
@@ -9,6 +7,12 @@
 
 /* Media
 =========== */
+
+@media screen and (max-width: 1280px) {
+  .header {
+    max-width: 1184px;
+  }
+}
 
 @media screen and (max-width: 1024px) {
   .header {

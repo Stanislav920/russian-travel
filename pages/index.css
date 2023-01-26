@@ -2,9 +2,9 @@
 ==============*/
 @import url(../vendor/normalize.css);
 
-/* Fonds
+/* Fonts
 ==============*/
-@import url(../fonds/fonds.css);
+@import url(../vendor/fonts/fonts.css);
 
 /* Root
 ==============*/
@@ -42,6 +42,7 @@
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__subtitle/intro__subtitle.css);
 @import url(../blocks/intro/__list/intro__list.css);
+@import url(../blocks/intro/__list-value/intro__list-value.css);
 
 /* Grid
 ==============*/
@@ -59,9 +60,10 @@
 @import url(../blocks/place/place.css);
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__website/place__website.css);
-@import url(../blocks/place/__url-heading/place-url-heading.css);
+@import url(../blocks/place/__url-heading/place__url-heading.css);
 @import url(../blocks/place/__link/place__link.css);
 @import url(../blocks/place/__image/place__image.css);
+@import url(../blocks/place/__text/place__text.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 
 /* Cover

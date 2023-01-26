@@ -3,6 +3,11 @@
   height: 52px;
 
   margin: 28px 0 0 0;
+
+  background-image: url(../../../images/header-logo.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 /* Media

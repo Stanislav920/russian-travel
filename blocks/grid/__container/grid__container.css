@@ -21,7 +21,7 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 768px) and (max-width: 1023px) {
   .grid__container {
     max-width: 720px;
     margin: 0 24px 0 24px;
@@ -32,11 +32,11 @@
   }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .grid__container {
-    margin: 0 16px 0 16px;
-
-    grid-template-columns: 288px 1fr;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
     gap: 12px;
+    margin: 64px 16px 0px 16px;
   }
 }
