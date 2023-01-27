@@ -6,18 +6,12 @@
 
   background-image: url(../../images/cover-trains.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   background-position: center;
 }
 
 /* Media
 =========== */
-
-@media screen and (max-width: 1280px) {
-  .cover {
-    background-size: contain;
-  }
-}
 
 @media screen and (max-width: 1024px) {
   .cover {
