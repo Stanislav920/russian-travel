@@ -20,6 +20,11 @@
 
 @media screen and (max-width: 320px) {
   .lead__image {
-    margin: 40px 2px 0 2px;
+    min-height: 200px;
+
+    box-sizing: border-box;
+    padding: 0 2px 0 2px;
+
+    margin: 40px 0;
   }
 }
